@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "366557934356",
+    "project_id": "nirvana-ride",
+    "storage_bucket": "nirvana-ride.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366557934356:android:d1eb12bdc696f933a4c801",
+        "android_client_info": {
+          "package_name": "com.kazungudev.nirvana_ride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366557934356-qslh69rebiuing904qf4jffcou9p3l3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKjq4RNdi8JTQx-8Su2tfmRKuun2Fwvk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366557934356-qslh69rebiuing904qf4jffcou9p3l3v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "366557934356-23rh812vh2gi275or34ldb5j5ebkcesb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kazungudev.nirvanaRide"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
